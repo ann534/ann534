@@ -1,7 +1,11 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=F7A600&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ann;A+Passionate+Full-Stack+Developer;Coffee+Lover+☕;Always+Learning+Something+New+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ann;Full-Stack+Developer+💻;Flutter+Learner+🚀;Coffee+Fueled+Coder+☕;Welcome+to+My+Tech+Space+⚡" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 
 ---
 
