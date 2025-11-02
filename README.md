@@ -20,11 +20,6 @@
 
 </div>
 
-<!-- 🌌 Purple Gradient Divider -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lXhxQXih4xVZyY/giphy.gif" alt="Purple Gradient Divider" width="100%"/>
-</p>
-
 ---
 
 ### 🌌 About Me
@@ -57,20 +52,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ann534&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ann534&layout=compact&theme=tokyonight&hide_border=false" height="160" />
-</p>
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ann534&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-### 🐍 Fun Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ann534/Ann534/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
