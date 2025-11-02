@@ -117,8 +117,9 @@
 
 ### 🧠 Fun Animation
 <p align="center">
-  <img src="https://github.com/Ann534/Ann534/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Ann534/Ann534/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
 
 ---
 
