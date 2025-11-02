@@ -3,6 +3,9 @@
 <!-- Static Header -->
 <h1>Hi 👋, I’m Ann</h1>
 <h2>Welcome to My Tech Space ⚡</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lXhxQXih4xVZyY/giphy.gif" alt="Purple Gradient Line" width="100%"/>
+</p>
 
 <!-- GIF next to animated quote -->
 <table align="center">
@@ -19,6 +22,9 @@
 </table>
 
 </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lXhxQXih4xVZyY/giphy.gif" alt="Purple Gradient Line" width="100%"/>
+</p>
 
 ---
 
