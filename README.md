@@ -1,22 +1,21 @@
 <!-- Futuristic Animated GitHub Profile README -->
 <div align="center">
 
-<!-- 🌟 Static Header -->
-<h1>Hi 👋, I'm Ann</h1>
+<!-- Static Header -->
+<h1>Hi 👋, I’m Ann</h1>
 <h2>Welcome to My Tech Space ⚡</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- GIF -->
+<p>
+  <img src="https://media.tenor.com/Nn5cnim3IcMAAAAM/woof.gif" alt="Cartoon Dog Woof GIF" width="300"/>
 </p>
 
-<!-- 🌈 Animated Typing Quote -->
+<!-- Animated Quote -->
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Debugging+Life+One+Bug+At+A+Time.;Coffee+Is+Fuel+For+Commits.;Making+The+Web+Awesome+✨" alt="Typing Animation" />
+  <img src="https://readme‑typing‑svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Debugging+Life+One+Bug+At+A+Time.;Coffee+Is+Fuel+For+Commits.;Making+The+Web+Awesome+✨" alt="Typing Animation" />
 </h3>
 
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
 
 ---
 
