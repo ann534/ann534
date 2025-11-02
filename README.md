@@ -4,6 +4,9 @@
 <!-- 🌟 Static Header -->
 <h1>Hi 👋, I'm Ann</h1>
 <h2>Welcome to My Tech Space ⚡</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 <!-- 🌈 Animated Typing Quote -->
 <h3>
@@ -11,6 +14,9 @@
 </h3>
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ---
 
