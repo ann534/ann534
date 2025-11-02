@@ -1,13 +1,10 @@
 <div align="center">
 
-<!-- Static Header -->
+<!-- 🌟 Static Header -->
 <h1>Hi 👋, I’m Ann</h1>
 <h2>Welcome to My Tech Space ⚡</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
 
-<!-- GIF next to animated quote -->
+<!-- 🌈 GIF next to Animated Quote -->
 <table align="center">
 <tr>
   <td>
@@ -20,9 +17,12 @@
   </td>
 </tr>
 </table>
+
 </div>
+
+<!-- 🌌 Purple Gradient Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://media.giphy.com/media/l41lXhxQXih4xVZyY/giphy.gif" alt="Purple Gradient Divider" width="100%"/>
 </p>
 
 ---
@@ -68,67 +68,11 @@
 
 ---
 
-<h2 align="center">🚀 Thanks for Visiting My Profile 🚀</h2>
-
-
----
-
-### 🌌 About Me
-💻 I’m a **passionate full-stack developer** who loves creating things that live on the internet.  
-🚀 Currently exploring **Flutter** and **mobile app development**.  
-☕ Fueled by **coffee**, curiosity, and late-night debugging sessions.  
-📫 Reach me at **ann.heak123@gmail.com**
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/idontsleep_ann" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%2300F7FF.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:ann.heak123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%2300F7FF.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,php,nodejs,mysql,postgresql,androidstudio,unity,vscode&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ann534&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ann534&layout=compact&theme=tokyonight&hide_border=false" height="170" />
-</p>
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ann534&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-### 🧠 Fun Animation
+### 🐍 Fun Contribution Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ann534/Ann534/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
-
 ---
 
 <h2 align="center">🚀 Thanks for Visiting My Profile 🚀</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Let's+Build+the+Future+Together+⚙️;Code.+Create.+Innovate.+✨" alt="Typing Footer" />
-</div>
